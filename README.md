@@ -1,16 +1,36 @@
-## Hi there 👋
+# Tu Nombre Completo – Técnico ASIR 💻
 
-<!--
-**2872579/2872579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
+Soy estudiante de Administración de Sistemas Informáticos en Red (ASIR), con interés en la gestión de sistemas, redes y ciberseguridad. Me gusta aprender nuevas tecnologías y aplicar mis conocimientos en entornos prácticos.
 
-Here are some ideas to get you started:
+Actualmente estoy formándome en administración de sistemas Linux y servicios de red.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades
+
+- **Sistemas Operativos:** Linux, Windows Server
+- **Redes:** Configuración IP, DHCP, DNS
+- **Virtualización:** VirtualBox, VMware
+- **Servicios:** Apache, FTP, SSH
+- **Otros:** Bash, fundamentos de seguridad
+
+Ejemplo de comando en Linux:
+`sudo apt update && sudo apt upgrade`
+
+---
+
+## 📂 Proyectos realizados
+
+- Instalación y configuración de servidor web Apache
+- Creación de una red local con varias máquinas virtuales
+- Configuración de servidor DHCP
+- Implementación de acceso remoto mediante SSH
+- Montaje de una máquina virtual con Ubuntu Server
+
+Ejemplo de configuración básica en Apache:
+
+```bash
+sudo apt install apache2
+sudo systemctl start apache2
+sudo systemctl enable apache2
