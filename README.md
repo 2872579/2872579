@@ -1,13 +1,13 @@
-# Tu Nombre Completo – Técnico ASIR 💻
+# Rubén Abenza Lucas – Técnico ASIR
 
-## 👨‍💻 Sobre mí
-Soy estudiante de Administración de Sistemas Informáticos en Red (ASIR), con interés en la gestión de sistemas, redes y ciberseguridad. Me gusta aprender nuevas tecnologías y aplicar mis conocimientos en entornos prácticos.
+## Sobre mí
+Soy estudiante de Administración de Sistemas Informáticos en Red, con interés en la gestión de sistemas, redes y ciberseguridad. Me gusta aprender nuevas tecnologías y aplicar mis conocimientos en entornos prácticos.
 
 Actualmente estoy formándome en administración de sistemas Linux y servicios de red.
 
 ---
 
-## 🛠️ Habilidades
+## Habilidades
 
 - **Sistemas Operativos:** Linux, Windows Server
 - **Redes:** Configuración IP, DHCP, DNS
@@ -20,7 +20,7 @@ Ejemplo de comando en Linux:
 
 ---
 
-## 📂 Proyectos realizados
+## Proyectos realizados
 
 - Instalación y configuración de servidor web Apache
 - Creación de una red local con varias máquinas virtuales
